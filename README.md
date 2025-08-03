@@ -1,4 +1,5 @@
 Online Course Builder – AI-Powered Course Creation Tool
+
 An intelligent AI-based automation system that builds complete online courses—from curriculum design to lessons and quizzes—based on just a topic input.
 This project utilizes AI agents to simulate the process of a curriculum team:
 Curriculum Designer
